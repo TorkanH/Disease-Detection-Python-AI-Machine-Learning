@@ -1,0 +1,1 @@
+streamlit run "C:\Users\torka\OneDrive\Desktop\multiple disease prediction system\multiplediseasepred.py"
